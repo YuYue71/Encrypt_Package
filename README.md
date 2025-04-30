@@ -5,7 +5,7 @@
 
 
 # 套用 :
-### 將此.py檔案放到專案跟目錄資料夾中
+### 將 `EncryptLib.py` 檔案放到專案跟目錄資料夾中
 ### 在專案中輸入 :
     import EncryptLib as el
 ### 以引用套件
